@@ -1,0 +1,19 @@
+1. wc.exe? -w -c -l test.java
+
+2. wc.exe -w -c D:\test\test.java
+
+3,wc.exe -w filename -e stoplistfile
+
+4. wc.exe -c -l -w? -a test.java -e ignore.txt
+
+5. wc.exe -c -a test.java -o
+
+6. wc.exe -e ignore.txt -w -s test.java
+
+7. wc.exe -o output.txt -w -l D:\test\test.java
+
+8.wc.exe -a -l -c -w filename
+
+9.?wc.exe -e ignor.txt
+?
+10. wc.exe -w -s? test.java -o output.txt
